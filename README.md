@@ -1,0 +1,2 @@
+# qPlaylist
+Qt Playlist Editor
